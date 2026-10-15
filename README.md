@@ -1,13 +1,18 @@
 # Atelier de fiches RP
 
-Petit atelier de création de fiches de personnage, utilisable dans le navigateur. Le contenu est traité côté client ; les exports Markdown, HTML, PNG et PDF sont disponibles depuis l’interface.
+Application React pour r?diger des fiches de personnage en Markdown et les exporter en PNG, PDF, HTML ou Markdown.
 
-## Utilisation
+## Utilisation locale
 
-- Ouvrir `index.html` pour accéder au site publié.
-- Ouvrir `atelier_fiches_markdown.html` pour utiliser l’atelier localement.
-- Les fiches de Shiina et Shimakuro sont fournies en fichiers Markdown séparés.
+```bash
+npm install
+npm run dev
+```
 
-## Publication
+## Production
 
-Site GitHub Pages : https://leoponchon.github.io/atelier-fiches-rp/
+```bash
+npm run build
+```
+
+Les fiches d?exemple restent disponibles dans `hisakawa-shiina.md` et `hisakawa-shimakuro.md`.
