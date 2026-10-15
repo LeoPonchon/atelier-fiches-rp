@@ -1,6 +1,6 @@
 # Atelier de fiches RP
 
-Application React pour r?diger des fiches de personnage en Markdown et les exporter en PNG, PDF, HTML ou Markdown.
+Application React pour rédiger des fiches de personnage en Markdown et les exporter en PNG, PDF, HTML ou Markdown.
 
 ## Utilisation locale
 
@@ -15,4 +15,6 @@ npm run dev
 npm run build
 ```
 
-Les fiches d?exemple restent disponibles dans `hisakawa-shiina.md` et `hisakawa-shimakuro.md`.
+Application publiée sur Vercel : https://atelier-fiches-rp.vercel.app
+
+Les fiches d’exemple restent disponibles dans `hisakawa-shiina.md` et `hisakawa-shimakuro.md`.
